@@ -1,3 +1,3 @@
-mod events;
+pub mod events;
 mod supervisor;
 mod worker;
