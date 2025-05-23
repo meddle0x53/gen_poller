@@ -1,0 +1,12 @@
+[
+  {
+    "name": "GitHub_tracker_ex_test",
+    "url": "https://github.com/meddle0x53/GitHub_tracker_ex_test.git",
+    "interval": "30s"
+  },
+  {
+    "name": "dots",
+    "url": "https://github.com/meddle0x53/meddle_dots",
+    "interval": "5m"
+  }
+]
